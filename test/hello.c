@@ -9,7 +9,10 @@
 #include <stdlib.h>
 
 int main(int argc,char **argv){
-	printf("Hello,This is libibary for easy c!");
+    printf("Hello,This is libibary for easy c!\n");
     return 0;
 }
+
+
+
 
